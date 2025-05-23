@@ -46,11 +46,7 @@ let TemperatureFahreheit: number = (9 / 5) * TemperatureCelsius + 32;
 
 // Outputting temperature in degrees Fahrenheit to console
 
-console.log(
-  'Temperature in degrees Fahrenheit will be:',
-  TemperatureFahreheit,
-  '°F'
-);
+console.log('Temperature in degrees Fahrenheit will be:', TemperatureFahreheit, '°F');
 
 // Task 4: Age of majority information
 
